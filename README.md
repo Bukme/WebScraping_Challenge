@@ -1,5 +1,5 @@
 # WebScraping_Challenge
-##References
+## References
 
 Beautiful Soup documentation¶. Beautiful Soup Documentation - Beautiful Soup 4.12.0 documentation. (n.d.). https://www.crummy.com/software/BeautifulSoup/bs4/doc/ 
 
