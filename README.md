@@ -1,5 +1,3 @@
-# WebScraping_Challenge
-
 # Mars Data Scraping and Analysis
 
 This project involves scraping data from various Mars-related websites and analyzing it using Python. There are two main parts to this project:
